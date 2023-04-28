@@ -1,0 +1,8 @@
+{
+    "name": "gl_1_4",
+    "version-string": "1.0.0",
+    "dependencies": [
+      "freeglut"
+    ]
+
+}
